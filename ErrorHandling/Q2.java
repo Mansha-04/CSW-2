@@ -1,4 +1,4 @@
-public class Q02 {
+public class Q2 {
     public static void main(String[] args) {
         String input = "aeiouh6";
         try {
